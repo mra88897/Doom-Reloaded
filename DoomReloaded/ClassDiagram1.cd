@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gun" Collapsed="true">
+    <Position X="1.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAIQhgCAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Doom Reloaded\Player Scripts\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStats">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAgBACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Doom Reloaded\Player Scripts\PlayerStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Target">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAAAAAAAAAAAACAAAAAgAAAAAg=</HashCode>
+      <FileName>Assets\Doom Reloaded\Player Scripts\Target.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAnimator">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAIAAAAQAACAAAAEI=</HashCode>
+      <FileName>Assets\Doom Reloaded\Scripts\Enemy Scripts\EnemyAnimator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyController">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCQACAACgGIIIAAAIAAiAEAAIIIAAACAAAgAQAMAEFA=</HashCode>
+      <FileName>Assets\Doom Reloaded\Scripts\Enemy Scripts\EnemyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Class Name="UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController.MovementSettings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController.AdvancedSettings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQQAhAIgEiAIAEAAgAAgAEACAAACgAIIEAAAAAAUIQA=</HashCode>
+      <FileName>Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NavAgentNoRootMotion">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAgAAyAGAAAAAAAAgAAAAAQAQAAAIAAAAAAAACA=</HashCode>
+      <FileName>Assets\Demo\NavAgentNoRootMotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIWaypointNetwork">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAgIAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Doom Reloaded\Scripts\AIWaypointNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedController">
+    <Position X="14" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Doom Reloaded\Scripts\SpeedController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuSceneLoader" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Demo\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EnemyState">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Doom Reloaded\Scripts\Enemy Scripts\EnemyController.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PathDisplayMode">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAACEAAAA=</HashCode>
+      <FileName>Assets\Doom Reloaded\Scripts\AIWaypointNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
